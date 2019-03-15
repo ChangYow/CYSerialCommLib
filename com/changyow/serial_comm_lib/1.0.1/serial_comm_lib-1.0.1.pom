@@ -8,12 +8,6 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>com.android.support</groupId>
-      <artifactId>appcompat-v7</artifactId>
-      <version>27.1.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
       <artifactId>kotlin-stdlib-jdk7</artifactId>
       <version>1.2.41</version>
@@ -26,9 +20,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>log_utils_lib</groupId>
+      <groupId>com.changyow</groupId>
       <artifactId>log_utils</artifactId>
-      <version>unspecified</version>
+      <version>1.0.2</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
